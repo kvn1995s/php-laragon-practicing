@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura>
+                    <fecha>2023-04-22</fecha>
+                    <total>5000</total>
+                    <cliente>Fercho</cliente>
+                    <producto>
+                        <nombre>IPHONE 14 PRO MAX MORADO 256GB</nombre>
+                        <codigo>PRODI</codigo>
+                    </producto>
+                </factura>

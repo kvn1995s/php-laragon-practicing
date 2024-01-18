@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumno>
+                    <codigo>AL001</codigo>
+                    <dni>12345678</dni>
+                    <nombres>BRUCE</nombres>
+                    <apellidos>WAYNE</apellidos>
+                    <carrera>DANZA</carrera>
+                    <curso>
+                        <periodo>202310</periodo>
+                        <NRC>1015</NRC>
+                        <nombre>MATEMATICA BASICA</nombre>
+                        <creditos>3</creditos>
+                    </curso>
+                    <curso>
+                        <periodo>202310</periodo>
+                        <NRC>3020</NRC>
+                        <nombre>DANZA MODERNA</nombre>
+                        <creditos>3</creditos>
+                    </curso>
+        </alumno>

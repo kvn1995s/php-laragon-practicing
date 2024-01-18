@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumno>
+                    <codigo>AL002</codigo>
+                    <dni>76655255</dni>
+                    <nombres_apellidos>JORGE OSCAR ALVA ROMO</nombres_apellidos>                    
+                    <carrera>MECANICA ELECTRICA</carrera>        
+                
+                <periodos>
+                <periodo>202211</periodo>
+                <codigo>AL002</codigo>
+                <promerdio>18</promerdio>
+                 <curso>                    
+                    <NRC>2036</NRC>
+                    <nombre>CALCULO</nombre>                    
+                    <periodo>202210</periodo>
+                    <codigo>AL002</codigo>
+                   <nota>18</nota>
+                 </curso>
+                 <curso>                    
+                    <NRC>2033</NRC>
+                    <nombre>FISICA</nombre>                    
+                    <periodo>202210</periodo>
+                    <codigo>AL001</codigo>
+                   <nota>20</nota>
+                 </curso>
+                 <curso>                    
+                    <NRC>2016</NRC>
+                    <nombre>MATEMATICA I</nombre>                    
+                    <periodo>202210</periodo>
+                    <codigo>AL002</codigo>
+                   <nota>18</nota>
+                 </curso>
+                 <curso>                    
+                    <NRC>2032</NRC>
+                    <nombre>QUIMICA</nombre>                    
+                    <periodo>202210</periodo>
+                    <codigo>AL002</codigo>
+                   <nota>20</nota>
+                 </curso>
+                 </periodos>;
+             </alumno>

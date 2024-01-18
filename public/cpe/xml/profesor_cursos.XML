@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profesor>
+            <codigo>PR001</codigo>
+            <nombres>JUAN JOSE</nombres>
+            <apellidos>SALAS ROJAS</apellidos>
+            <DNI>76658255</DNI>	
+            <especialidad>IGENIERIA</especialidad>
+             <curso>
+                <periodo>202310 </periodo>
+                <NRC>2036</NRC>
+                <nombre>CALCULO</nombre>
+                <creditos>3</creditos>
+                <horario>MAÑANA</horario>
+                <horas>4</horas>
+               <modalidad>REMOTO</modalidad>
+             </curso>
+             <curso>
+                <periodo>202310 </periodo>
+                <NRC>1566</NRC>
+                <nombre>FISICA</nombre>
+                <creditos>4</creditos>
+                <horario>TARDE</horario>
+                <horas>3</horas>
+               <modalidad>REMOTO</modalidad>
+             </curso>
+             <curso>
+                <periodo>202310 </periodo>
+                <NRC>3668</NRC>
+                <nombre>QUIMICA</nombre>
+                <creditos>3</creditos>
+                <horario>TARDE</horario>
+                <horas>3</horas>
+               <modalidad>REMOTO</modalidad>
+             </curso>
+        </profesor>
